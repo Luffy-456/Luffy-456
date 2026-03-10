@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Learning JavaScript and React<br>🔁 Improving daily<br>🌍 Exploring how technology shapes the world<br>⚡ Fun fact: I enjoy diving deep into random topics 🧐
+🌱 Learning JavaScript, React & DSA<br>🔁 Improving daily<br>🌍 Exploring how technology shapes the world<br>⚡ Fun fact: I enjoy diving deep into random topics 🧐
 
 
 # 💻 Tech Stack:
