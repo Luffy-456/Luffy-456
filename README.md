@@ -13,4 +13,4 @@
 [![](https://visitcount.itsvg.in/api?id=Luffy-456&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- snake gif-->
-![snake gif](https://github.com/AravindaJogi/AravindaJogi/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Luffy-456/Luffy-456/blob/output/github-contribution-grid-snake.svg)
